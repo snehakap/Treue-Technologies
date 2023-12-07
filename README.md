@@ -1,2 +1,2 @@
 # Treue-Technologies
-Data science projects 
+Data science projects built in machine learning.
